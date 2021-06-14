@@ -39,6 +39,7 @@ public class UrlCheckController {
             returnMessage = SITE_IS_DOWN;
         }
         // System.out.println(returnMessage);
+        // just for checking
         return returnMessage;
     }
 }
